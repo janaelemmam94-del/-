@@ -1,0 +1,6 @@
+{
+  "name": "VideoGen AI",
+  "description": "Next-gen AI Video Generator Studio with text-to-video, cinematic director camera motions, multi-scene storyboards, and high-fidelity video rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

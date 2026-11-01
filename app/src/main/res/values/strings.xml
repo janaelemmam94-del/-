@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoGen AI</string>
+    <string name="tagline">استوديو توليد الفيديوهات بالذكاء الاصطناعي</string>
+    <string name="generate_video">توليد الفيديو</string>
+    <string name="prompt_hint">صف مشهد الفيديو بالتفصيل (مثال: تاكسي طائر في مدينة مستقبلية تحت المطر وإضاءات النيون، تصوير سينمائي بدقة 8K)</string>
+    <string name="camera_motion">حركة الكاميرا</string>
+    <string name="aspect_ratio">أبعاد الشاشة</string>
+    <string name="duration">المدة</string>
+    <string name="style">النمط البصري</string>
+</resources>
